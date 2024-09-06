@@ -27,4 +27,3 @@ public class Libro extends Publicacion{
         return numPaginas;
     }
 }
-
